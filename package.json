@@ -32,11 +32,7 @@
     "city",
     "builder"
   ],
-  "author": "lo-th",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lo-th/3d.city/issues"
-  },
+ 
   "homepage": "http://lo-th.github.io/uil/",
   "devDependencies": {
     "@babel/core": "^7.12.16",
